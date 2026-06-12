@@ -1,0 +1,14 @@
+C:\skola\programko\Projekt\projekt\projekt\bin\Debug\net9.0\projekt.exe
+C:\skola\programko\Projekt\projekt\projekt\bin\Debug\net9.0\projekt.deps.json
+C:\skola\programko\Projekt\projekt\projekt\bin\Debug\net9.0\projekt.runtimeconfig.json
+C:\skola\programko\Projekt\projekt\projekt\bin\Debug\net9.0\projekt.dll
+C:\skola\programko\Projekt\projekt\projekt\bin\Debug\net9.0\projekt.pdb
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\projekt.AssemblyInfoInputs.cache
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\projekt.AssemblyInfo.cs
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\projekt.csproj.CoreCompileInputs.cache
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\projekt.dll
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\refint\projekt.dll
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\projekt.pdb
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\projekt.genruntimeconfig.cache
+C:\skola\programko\Projekt\projekt\projekt\obj\Debug\net9.0\ref\projekt.dll
